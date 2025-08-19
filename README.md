@@ -1,12 +1,12 @@
 Interview_Questions
 
-1.What is a lambda function in Python? Provide an example.
-2.How do you create a DataFrame using Pandas from a dictionary?
-3.What are the different modes in which you can open a file in Python?
-4.How would you extract all email addresses from a string using regex?
-5.Write a regex pattern to match a valid date in dd-mm-yyyy format.
-6.How can you add 7 days to the current date in Python?
-7.Write a code to join two DataFrames using an inner join on a common column.
+1. What is a lambda function in Python? Provide an example.
+2. How do you create a DataFrame using Pandas from a dictionary?
+3. What are the different modes in which you can open a file in Python?
+4. How would you extract all email addresses from a string using regex?
+5. Write a regex pattern to match a valid date in dd-mm-yyyy format.
+6. How can you add 7 days to the current date in Python?
+7. Write a code to join two DataFrames using an inner join on a common column.
  
  
 Exercises:
