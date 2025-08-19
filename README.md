@@ -22,6 +22,7 @@ Exercises:
 
 
 
+
 Selenium
 
 1. Open a URL and validate a keyword in the title
