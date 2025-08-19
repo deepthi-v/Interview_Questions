@@ -1,5 +1,27 @@
 Interview_Questions
 
+What is a lambda function in Python? Provide an example.
+How do you create a DataFrame using Pandas from a dictionary?
+What are the different modes in which you can open a file in Python?
+How would you extract all email addresses from a string using regex?
+Write a regex pattern to match a valid date in dd-mm-yyyy format.
+How can you add 7 days to the current date in Python?
+Write a code to join two DataFrames using an inner join on a common column.
+ 
+ 
+Exercises:
+Write a function to remove duplicates while preserving the order.
+Write a function to check if a number is prime.
+Write a function that checks if two words are anagrams.
+Input: "listen" and "silent" → Output: True
+Count Word Frequency in a String
+Input: "apple banana apple orange"
+Output: {'apple': 2, 'banana': 1, 'orange': 1}
+Use the datetime module to print current date and time in format DD-MM-YYYY HH:MM:SS.
+Given two date strings ("2025-01-01", "2025-08-18"), find the number of days between them
+
+
+
 Selenium
 
 1. Open a URL and validate a keyword in the title
