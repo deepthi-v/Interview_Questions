@@ -16,10 +16,10 @@ Exercises:
 3. Write a function that checks if two words are anagrams.
    Input: "listen" and "silent" → Output: True
 4. Count Word Frequency in a String
-   Input: "apple banana apple orange"
-   Output: {'apple': 2, 'banana': 1, 'orange': 1}
-5. Use the datetime module to print current date and time in format DD-MM-YYYY HH:MM:SS.
-6. Given two date strings ("2025-01-01", "2025-08-18"), find the number of days between them
+     Input: "apple banana apple orange"
+     Output: {'apple': 2, 'banana': 1, 'orange': 1}
+6. Use the datetime module to print current date and time in format DD-MM-YYYY HH:MM:SS.
+7. Given two date strings ("2025-01-01", "2025-08-18"), find the number of days between them
 
 
 
