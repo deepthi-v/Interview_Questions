@@ -9,16 +9,17 @@ Interview_Questions
 7. Write a code to join two DataFrames using an inner join on a common column.
  
  
-Exercises:
-1.Write a function to remove duplicates while preserving the order.
-2.Write a function to check if a number is prime.
-3.Write a function that checks if two words are anagrams.
+Exercises: 
+
+1. Write a function to remove duplicates while preserving the order.
+2. Write a function to check if a number is prime.
+3. Write a function that checks if two words are anagrams.
    Input: "listen" and "silent" → Output: True
-4.Count Word Frequency in a String
+4. Count Word Frequency in a String
    Input: "apple banana apple orange"
    Output: {'apple': 2, 'banana': 1, 'orange': 1}
-5.Use the datetime module to print current date and time in format DD-MM-YYYY HH:MM:SS.
-6.Given two date strings ("2025-01-01", "2025-08-18"), find the number of days between them
+5. Use the datetime module to print current date and time in format DD-MM-YYYY HH:MM:SS.
+6. Given two date strings ("2025-01-01", "2025-08-18"), find the number of days between them
 
 
 
